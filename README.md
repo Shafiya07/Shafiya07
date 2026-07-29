@@ -257,63 +257,7 @@ Building a strong foundation in software engineering while developing practical 
 
 ---
 
-# Certifications
 
-## AWS
-
-<p align="left">
-
-![](https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-![](https://img.shields.io/badge/AWS-AI%20Practitioner-7C3AED?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-![](https://img.shields.io/badge/AWS-Developer%20Associate-4F46E5?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-</p>
-
-### Oracle
-
-![](https://img.shields.io/badge/Oracle-Java-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-![](https://img.shields.io/badge/Oracle-SQL-C74634?style=for-the-badge&logo=oracle&logoColor=white)
-
-### NPTEL
-
-![](https://img.shields.io/badge/NPTEL-Python-6D28D9?style=for-the-badge)
-
-![](https://img.shields.io/badge/NPTEL-Machine%20Learning-4F46E5?style=for-the-badge)
-
-### Cisco
-
-![](https://img.shields.io/badge/Cisco-Networking-049FD9?style=for-the-badge&logo=cisco&logoColor=white)
-
-![](https://img.shields.io/badge/Cisco-Cybersecurity-005073?style=for-the-badge&logo=cisco&logoColor=white)
-
----
-
-# Coding Profiles
-
-<p align="center">
-
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/user/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-5B4638?style=for-the-badge"/>
-</a>
-
-</p>
-
----
 
 # GitHub Analytics
 
