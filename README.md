@@ -4,8 +4,8 @@
 
 Email Me 👉 ✉️ **shafiya.25046@gmail.com** for collaborations, AI projects, hackathons, open-source contributions, or software engineering discussions.
 
-- 🔭 **I'm currently building:** BrainDump AI, Smart Water Quality Monitoring System & Full Stack Applications
-- 🌱 **I'm currently learning:** Java, Data Structures & Algorithms, Python, FastAPI, React, SQL, Docker, Machine Learning & Generative AI
+- 🔭 **I'm currently building:** Smart Water Quality Monitoring System & Full Stack Applications
+- 🌱 **I'm currently learning:** Java, Data Structures & Algorithms, Python, FastAPI, React, SQL, Machine Learning & Generative AI
 - 👯 **I'm looking to collaborate on:** AI/ML Projects, Full Stack Development, Open Source & Hackathons
 - 🤔 **I'm looking for help with:** Production-grade AI Systems, System Design & MLOps
 - 💬 **Ask me about:** Python, Java, AI/ML, GitHub, Learning Resources & My Engineering Journey
@@ -68,20 +68,6 @@ Instead of collecting certificates, I believe in building real-world projects th
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
----
-
-## ⚙️ Backend Development
-
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-![REST API](https://img.shields.io/badge/REST%20API-6D28D9?style=for-the-badge)
-
 ---
 
 ## 🗄️ Database
@@ -116,12 +102,6 @@ Instead of collecting certificates, I believe in building real-world projects th
 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
@@ -132,48 +112,17 @@ Instead of collecting certificates, I believe in building real-world projects th
 - ☕ Java
 - 🐍 Python
 - 🤖 Machine Learning
-- 🧩 FastAPI
-- ⚛️ React
-- 🗄️ Database Design
-- 🐳 Docker
-- ☁️ Backend Engineering
 - 🚀 Building Production-Ready Projects
 
 ---# 🚀 Featured Projects
 
 <details>
-<summary><b>🧠 BrainDump AI — AI Powered Productivity Platform</b></summary>
-
-### 📖 Overview
-
-BrainDump AI is my flagship project focused on helping users organize their thoughts, ideas, notes, and tasks using Artificial Intelligence.
-
-The goal is to reduce mental overload by converting unstructured thoughts into organized knowledge with AI-powered insights.
 
 | Category | Details |
 |----------|----------|
 | **Status** | 🚧 In Development |
 | **Role** | AI Engineer & Full Stack Developer |
 | **Frontend** | React.js |
-| **Backend** | FastAPI |
-| **Database** | PostgreSQL |
-| **Authentication** | JWT |
-| **AI Integration** | OpenAI API |
-| **Architecture** | Modular & Scalable |
-| **Deployment** | Docker (Planned) |
-| **Repository** | *Coming Soon* |
-
-### ✨ Key Features
-
-- 🧠 AI Note Organization
-- 🎤 Voice Notes
-- 📝 Smart Todo Generator
-- 📊 Weekly Productivity Dashboard
-- 🔍 Semantic Search
-- 📅 Reminder System
-- 📈 Personal Growth Analytics
-- 🔐 Secure User Authentication
-
 ### 🎯 Engineering Goals
 
 - Production Ready Architecture
@@ -416,20 +365,3 @@ open_to:
 
 ---
 
-# 💜 Quote I Live By
-
-> **"Discipline builds skills. Consistency builds success. Curiosity builds engineers."**
-
----
-
-<p align="center">
-
-### ⭐ If you like my work, consider following me and starring my repositories!
-
-</p>
-
-<p align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=gradient&customColorList=6,12,20,24,30"/>
-
-</p>
