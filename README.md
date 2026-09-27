@@ -1,29 +1,29 @@
-# 💜 Hi 👋, I'm Shafiya
+<div align="center">
+  
+# 👋🏻 Hey, I'm Shafiya!
 
-**A passionate Artificial Intelligence & Machine Learning Student | Software Engineering Enthusiast | Future AI Engineer from India 🇮🇳**
+### **ML Developer | CS Graduate Student**
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Building+Intelligent+Systems;Exploring+AI+%26+ML;Always+Learning)](https://git.io/typing-svg)
+
+</div>
+
+---
 
 Email Me 👉 ✉️ **shafiya.25046@gmail.com** for collaborations, AI projects, hackathons, open-source contributions, or software engineering discussions.
 
-- 🔭 **I'm currently building:** Smart Water Quality Monitoring System & Full Stack Applications
-- 🌱 **I'm currently learning:** Java, Data Structures & Algorithms, Python, FastAPI, React, SQL, Machine Learning & Generative AI
-- 👯 **I'm looking to collaborate on:** AI/ML Projects, Full Stack Development, Open Source & Hackathons
-- 🤔 **I'm looking for help with:** Production-grade AI Systems, System Design & MLOps
-- 💬 **Ask me about:** Python, Java, AI/ML, GitHub, Learning Resources & My Engineering Journey
-- 📫 **How to reach me:** **shafiya.25046@gmail.com**
-- 😄 **Pronouns:** She/Her
-- ⚡ **Fun fact:** I believe consistency beats talent. Every project I build is one step closer to becoming a world-class AI Engineer.
-
 ---
 
-# 🚀 My Mission
+## ⚓️ Tech Stack & Tools
 
-I am currently pursuing **B.Tech in Artificial Intelligence & Machine Learning** at **Siddaganga Institute of Technology (VTU)**.
+<div align="center">
 
-My goal is to become a **production-ready AI Engineer** by mastering Software Engineering fundamentals, Data Structures & Algorithms, Backend Development, Machine Learning, and Full Stack Development.
-
-Instead of collecting certificates, I believe in building real-world projects that solve meaningful problems and strengthen my engineering mindset.
-
----
+### **Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 🌐 Connect With Me
 
@@ -105,38 +105,6 @@ Instead of collecting certificates, I believe in building real-world projects th
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
-
-## 📚 Currently Focusing On
-
-- 🧠 Data Structures & Algorithms
-- ☕ Java
-- 🐍 Python
-- 🤖 Machine Learning
-- 🚀 Building Production-Ready Projects
-
----# 🚀 Featured Projects
-
-<details>
-
-| Category | Details |
-|----------|----------|
-| **Status** | 🚧 In Development |
-| **Role** | AI Engineer & Full Stack Developer |
-| **Frontend** | React.js |
-### 🎯 Engineering Goals
-
-- Production Ready Architecture
-- Clean Code Principles
-- Scalable Backend APIs
-- AI Integration
-- Modern UI/UX
-
-</details>
-
----
-
-<details>
-
 <summary><b>💧 Smart Water Quality Monitoring System</b></summary>
 
 ### 📖 Overview
@@ -170,20 +138,6 @@ A portable IoT project designed to monitor drinking water quality using multiple
 
 <summary><b>🏠 GharShare — Rental Platform</b></summary>
 
-### 📖 Overview
-
-A modern rental platform designed to connect students and families with verified rental properties through a clean and secure experience.
-
-| Category | Details |
-|----------|----------|
-| **Status** | Planning Stage |
-| **Frontend** | React |
-| **Backend** | Node.js + Express |
-| **Database** | MongoDB |
-| **Authentication** | JWT |
-| **Deployment** | Cloud Ready |
-| **Repository** | *Coming Soon* |
-
 ### ✨ Features
 
 - 🏡 Property Listings
@@ -196,155 +150,6 @@ A modern rental platform designed to connect students and families with verified
 </details>
 
 ---
-
-# 📈 My Learning Journey
-
-```text
-2025 ✅ Started B.Tech in Artificial Intelligence & Machine Learning
-
-↓
-
-Learned Programming Fundamentals
-
-↓
-
-Started Python
-
-↓
-
-Started Java
-
-↓
-
-Learning Data Structures & Algorithms
-
-↓
-
-Learning Backend Development
-
-↓
-
-Building Full Stack Projects
-
-↓
-
-Learning Machine Learning
-
-↓
-
-Learning Generative AI
-
-↓
-
-Building Production-Ready Applications
-
-↓
-
-🎯 Goal → AI Engineer & Software Engineer
-```
-
----
-
-# 🌟 What Makes Me Different?
-
-✔️ I believe in building real-world projects instead of only collecting certificates.
-
-✔️ I focus on understanding concepts deeply rather than memorizing them.
-
-✔️ Every project I build is aimed at improving my software engineering skills.
-
-✔️ I enjoy solving practical problems through AI and modern software development.
-
-✔️ My long-term goal is to become a production-ready AI Engineer capable of building scalable products.
-
----# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shafiya07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shafiya07&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Shafiya07&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Shafiya07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shafiya07&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Shafiya07/Shafiya07/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-# 🎯 Current Focus
-
-```yaml
-currently_learning:
-  - Java
-  - Data Structures & Algorithms
-  - Machine Learning
-  - Deep Learning
-  - FastAPI
-  - React
-  - Docker
-  - SQL
-
-currently_building:
-  - BrainDump AI
-  - Smart Water Quality Monitoring System
-  - Personal Portfolio
-  - Open Source Projects
-
-future_goals:
-  - Crack Top Software Engineering Internship
-  - Become Production Ready AI Engineer
-  - Master Backend Development
-  - Contribute to Open Source
-  - Build AI Products Used by Thousands
-
-open_to:
-  - AI Internships
-  - Software Engineering Internships
-  - Open Source Collaboration
-  - Technical Communities
-  - Hackathons
-```
-
----
-
 # 🌐 Connect With Me
 
 <p align="center">
