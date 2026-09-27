@@ -37,18 +37,6 @@ Email Me 👉 ✉️ **shafiya.25046@gmail.com** for collaborations, AI projects
 
 ---
 
-<div align="center">
-
-<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Shafiya07&theme=tokyonight&no-frame=true&margin-w=8)# 💻 Tech Stack
-
 ## 👨‍💻 Programming Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -67,16 +55,6 @@ Email Me 👉 ✉️ **shafiya.25046@gmail.com** for collaborations, AI projects
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
----
-
-## 🗄️ Database
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
@@ -105,51 +83,7 @@ Email Me 👉 ✉️ **shafiya.25046@gmail.com** for collaborations, AI projects
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
-<summary><b>💧 Smart Water Quality Monitoring System</b></summary>
 
-### 📖 Overview
-
-A portable IoT project designed to monitor drinking water quality using multiple sensors. This project aims to make water testing affordable, accessible, and easy to understand.
-
-| Category | Details |
-|----------|----------|
-| **Status** | 🚧 Academic Project |
-| **Platform** | Arduino + ESP32 |
-| **Sensors** | pH, TDS, Turbidity & Temperature |
-| **Programming** | Embedded C |
-| **Cloud** | Firebase (Planned) |
-| **Future Scope** | Android Dashboard |
-| **Repository** | *Coming Soon* |
-
-### ✨ Features
-
-- 📊 Real-Time Monitoring
-- 💧 Water Quality Analysis
-- 📈 Sensor Calibration
-- ⚡ Low Power Consumption
-- 📡 IoT Ready
-- 📱 Mobile Dashboard (Future)
-
-</details>
-
----
-
-<details>
-
-<summary><b>🏠 GharShare — Rental Platform</b></summary>
-
-### ✨ Features
-
-- 🏡 Property Listings
-- 🔍 Smart Search
-- ❤️ Wishlist
-- 👤 User Profiles
-- 🔐 Secure Login
-- 📱 Mobile Friendly
-
-</details>
-
----
 # 🌐 Connect With Me
 
 <p align="center">
